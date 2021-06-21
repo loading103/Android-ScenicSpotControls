@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name = "login_btn_bg">
+        <item>@color/color_329aff</item>
+        <item>@color/color_2abaff</item>
+        <item>@color/color_59abff</item>
+    </array>
+</resources>

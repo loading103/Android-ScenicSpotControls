@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 主题色-->
+    <color name="colorPrimary">#59abff</color>
+
+    <color name="color_333333">#333333</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_59abff">#59abff</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_f4f7ff">#f4f7ff</color>
+    <color name="color_ececec">#ececec</color>
+    <color name="color_e2e2e2">#e2e2e2</color>
+    <color name="color_21b87c">#21b87c</color>
+    <color name="color_edfff8">#edfff8</color>
+    <color name="color_eff7ff">#eff7ff</color>
+    <color name="color_ff5757">#ff5757</color>
+    <color name="color_fff2f2">#fff2f2</color>
+    <color name="color_e1e1e1">#e1e1e1</color>
+    <color name="color_e5f8ff">#e5f8ff</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_f12c20">#f12c20</color>
+    <color name="color_329aff">#329aff</color>
+    <color name="color_2abaff">#2abaff</color>
+    <color name="color_e9f7ff">#e9f7ff</color>
+    <color name="color_ff9d46">#ff9d46</color>
+
+</resources>

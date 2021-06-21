@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.daqsoft.module_work">
+    <application>
+
+        <activity android:name=".activity.LeaveListActivity" />
+        <activity android:name=".activity.AddLeaveApplyActivity"/>
+        <activity android:name=".activity.LeaveApplyInfoActivity"/>
+
+    </application>
+
+</manifest>
